@@ -1,2 +1,2 @@
 # SimpleRegression
-Simple Linear / Nonlinear Regression
+Simple Linear / Nonlinear Regression Streamlit App
